@@ -27,3 +27,7 @@ compass: 'COMPASS',
 generate: 'Generate_matrix',
 MBPCA: 'Multi_Block_PCA',
 }
+
+https://couch.cheminfo.org/cheminfo-public/ed3ce004536b755025fbd19526fc1483/view.json
+
+https://couch.cheminfo.org/cheminfo-public/0e380c7e7bb1178ca434122bca5ba0b9/view.json
